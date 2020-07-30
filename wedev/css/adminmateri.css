@@ -1,0 +1,51 @@
+.main{
+	margin: 0;
+}
+.main .nav{
+	width: 100%;
+	height: 50px;
+	background-color: yellow;
+}
+.main .nav li{
+	display: inline-flex;
+	margin: 15px 10px 0 30px;
+	float: right;
+}
+.main .side{
+	width: 20%;
+	height: 800px;
+	background-color: orange;
+	float: left;
+
+}
+.main .side li{
+	list-style: none;
+	display: block;
+}
+.main .isi{
+	width: 100%;
+	height: 800px;
+	background-color: blue;
+}
+.main .isi .tambah{
+	width: 100%;
+	height: 66px;
+	padding-top: 20px;
+	padding-left: 20px; 
+}
+.main .isi .tambah form li{
+	display: inline-flex;
+	list-style: none;
+}
+.main .isi .tambah form li input[type="text"]{
+
+}
+.main .isi .tambah form li input[type="file"]{
+
+}
+.main .isi .tambah form li input[type="submit"]{
+
+}
+.main .isi .list{
+
+}

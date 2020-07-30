@@ -1,0 +1,52 @@
+.main .nav{
+	width: 100%;
+	height: 50px;
+	background-color: black;
+}
+.main .nav li{
+	list-style: none;
+	display: inline-flex;
+	color: white;
+	float: right;
+}
+.main .isi{
+	width: 100%;
+	height: auto;
+	background-color: blue;
+	margin-top: 60px;
+}
+.main .isi .materi{
+	width: 22%;
+	height: 360px;
+	background-color: purple;
+	margin: 40px 20px 20px 40px;
+	display: inline-flex;
+}
+.main .isi .materi .isimateri{
+	width: 100%;
+	height: 360px;
+	background-color: pink;
+}
+.main .isi .materi .gambar{
+	width: 90%;
+	height: 250px;
+	background-color: yellow;
+	margin:13px 10px 13px 13px;
+}
+.main .isi .materi .judul{
+	width: 100%;
+	height: 70px;
+	background-color: green;
+}
+.main .urutan{
+	width: 30%;
+	height: 1000px;
+	float: left;
+	background-color: green;
+}
+.main .video{
+	width: 70%;
+	height: 1000px;
+	float: right;
+	background-color: blue;
+}
